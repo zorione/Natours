@@ -1,10 +1,9 @@
 # Natours
 This repo consists of the code of project NATOURS which I made as a part of learning Advanced CSS course by Jonas Schmedtmann.
-It is hosted on Netlify.<br/>
-</br>
-
+It is hosted on Netlify.
 ###### https://natours-6.netlify.app/
-
+ <br/>
+ 
 ### What all I learnt in this project?
 > * SASS or Sassy CSS
 > * Animate solid-color gradients
