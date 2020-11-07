@@ -1,6 +1,9 @@
 # Natours
-This repo consists of the code of project NATOURS which I made as a part of learning Advanced CSS course by Jonas Schmedtmann. <br/>
+This repo consists of the code of project NATOURS which I made as a part of learning Advanced CSS course by Jonas Schmedtmann.
+It is hosted on Netlify.<br/>
 </br>
+
+###### https://natours-6.netlify.app/
 
 ### What all I learnt in this project?
 > * SASS or Sassy CSS
